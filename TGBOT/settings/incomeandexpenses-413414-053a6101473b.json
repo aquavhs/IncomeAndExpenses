@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "incomeandexpenses-413414",
+  "private_key_id": "053a6101473bc49856f04183d23a3f02a8338ade",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDR/SX4wuRGZHWd\n33MpJwxZ6NCzSFbWMW1pNTSoKU4rx4oJDlqCfjod0LOngAFpM4/t66eNB7Hgf31k\nmFNGnKfBrL3r8xdkQePkgFx4a7G83zmbgXJ7ZF9d2ZvP0wBt8rNUsnhWg4gkF6iL\n5oE9LFhmisu2Ro65wHLvhdkBiBVrC4/Sxq+Tv+QgLd2uGtlRDRqmmy7VrF9QKmcV\nZliiQ7vk2cJsfmW047XVXwIRiP+JME5dj/hh4Z0XYtufGIRddfYGtKRBTWVZOphB\nCyQreC0xOLYWISSId+yvtjFB5xzMooeTCDNzuS0fZhXxyc7uaDlfkhF1l65i521F\n3wursDq3AgMBAAECggEASZTHm/oKzGHCVw4oB9kPemfazZ/BEfAi8xU6PNywcCXN\nCCxX6db6XV02vrBbjjYLrqZ/QStbmJuD4F6B+8HEBNkXedjmLvLpvLV/8ZBnKRQd\nVxDOgU9kHXo1n2bEBULgtQKOqV4Qs/j4TgF48usZlOD4zge+VneJrsW7i05YlvfE\n3846zcb4c8faIgpNC0fL4to0I0hXdoryRLOTDIBPKMa7N3yTKJOdMxQx3xmRlONQ\nLYTQ15gj68rI+ZWUsgm+iSWJ42oM460o3VMyJXpsTYVzFLlZLBGdcrqC5Gno2nIw\ngMu1AiIL2wrL/5KWyP03M2WmajVUikgV5EdCwUjdaQKBgQD26FfanqgcUXYqIPjq\nJanZml32E09h2/cGR1mMRkbyZyf5gErGYBnBywNXfBOt3kbqySVU03cyhbMR8cQV\nXOS+BpMgtZibFm6pkRK8wMxiYwHKC8HHMgrbIGdH/WgrHwXEczitGemrSFu+iLpt\nK0RYgOMJIgcTZBTU6DWiEd0LzwKBgQDZuMNyYmGdRVeA9unLNjxz72TEoPtbNPSf\n5h0qcc9/fIZyz26RymvbyV/Dftn9yDhRsfrsoruCdv3I7RJHxyV8tGMvKJq3ytYX\nzj22+beBV9ty7M9MmbAN+NUPgTr9mijEGCIWH6zOAVl9PzdouRzi/2/pPiieE5QB\nO7W9zdgUmQKBgCJ52OKW6sRhf41sYzVWovvWeS5GDfyNGVYQGmni2j84tjU5e7dt\nbctIjKPnmFvbwK1B/ut0R52PW6yyxH1zJiF+i4aytKdbH4Kf1izzAtbuGi7bK2ik\nDS4BvUopESWMRGLk79ID30Pia6UUNGvP8dAl1w3MaY6EmAAOmIaT1fizAoGARwv9\n63OjOvkHxvPL8x4tt/9kuK13mJm9QfiLh/A/r/Box0pdYIHXlI8wCtF4PVJ63l3f\n7hxkZ/yAcHK8RmP8HaeXvinX4yXzmy0YAn+WnESZPfV86Bg21Thf/oFDSMJnjyX4\n6ZNIhqj2FOLuJ+RQQtrsIAbCpmLpJ0Xe1qM3YfECgYBoXu0gaWMQQpuJJje7hErg\nHH2grLWBHZ5TJfUCr2OVXXG9rE4nFx7122aTPHXmEzUbLIhE9OXxNE4RXxXIg9Uu\nav/T7T78vTFI3H98JvFcZfqPtop0HWeO8wCfASKI8itL7exFn72OxQp6ThL+zeje\nO347Eo7S9uNCL9YZ7oFQyw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "incomeandexpenses@incomeandexpenses-413414.iam.gserviceaccount.com",
+  "client_id": "118242118205208215924",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/incomeandexpenses%40incomeandexpenses-413414.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
